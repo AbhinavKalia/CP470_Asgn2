@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ਮਾਈ ਫਰਸਟ</string>
+    <string name="HelloWorld">ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ ਦੁਨਿਆ</string>
+    <string name="changeLang">ਭਾਸ਼ਾ ਬਦਲੋ</string>
+    <string name="Login">ਲਾਗਿਨ</string>
+    <string name="Password">ਪਾਸਵਰਡ</string>
+    <string name="login_name">ਲਾਗਇਨ ਨਾਮ</string>
+    <string name="Imabutton">ਮੈਂ ਇੱਕ ਬਟਨ ਹਾਂ</string>
+    <string name="radiobutton">ਰੇਡੀਓਬੱਟਨ</string>
+    <string name="checkbox">ਚੈੱਕਬਾਕਸ</string>
+    <string name="whatdoesthisdo">ਇਹ ਕੀ ਕਰਦਾ ਹੈ?</string>
+    <string name="yes_label">YES</string>
+    <string name="no_label">NO</string>
+    <string name="cofirm_label">CONFIRM</string>
+    <string name="confirmation_label">Are you sure?</string>
+    <string name="res_label">Response</string>
+    <string name="final_response">Here is your response.</string>
+    <string name="on_switch">Switch is ON</string>
+    <string name="off_switch">Switch is OFF</string>
+    <string name="permission">Permission required.</string>
+    <string name="chatButton">Chat Button</string>
+    <string name="send">send</string>
+
+</resources>

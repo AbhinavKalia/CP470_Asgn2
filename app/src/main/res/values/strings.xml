@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyFirst</string>
+    <string name="HelloWorld">Hello World</string>
+    <string name="changeLang">Change Language</string>
+    <string name="Login">Login</string>
+    <string name="Password">Password</string>
+    <string name="login_name">login name</string>
+    <string name="Imabutton">I am a button</string>
+    <string name="radiobutton">RadioButton</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="whatdoesthisdo">What does this do?</string>
+    <string name="yes_label">YES</string>
+    <string name="no_label">NO</string>
+    <string name="cofirm_label">CONFIRM</string>
+    <string name="confirmation_label">Are you sure?</string>
+    <string name="res_label">Response</string>
+    <string name="final_response">Here is your response.</string>
+    <string name="on_switch">Switch is ON</string>
+    <string name="off_switch">Switch is OFF</string>
+    <string name="permission">Permission required.</string>
+    <string name="chatButton">Chat Button</string>
+    <string name="send">send</string>
+
+</resources>

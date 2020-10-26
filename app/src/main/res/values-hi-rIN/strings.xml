@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">मेरा पहला</string>
+    <string name="HelloWorld">नमस्ते दुनिया</string>
+    <string name="changeLang">भाषा बदलो</string>
+    <string name="Login">लॉग इन करें</string>
+    <string name="Password">कुंजिका</string>
+    <string name="login_name">लॉगिन नाम</string>
+    <string name="Imabutton">मैं एक बटन हूं</string>
+    <string name="radiobutton">रेडियो बटन</string>
+    <string name="checkbox">चेक बॉक्स</string>
+    <string name="whatdoesthisdo">यह क्या करता है?</string>
+    <string name="yes_label">YES</string>
+    <string name="no_label">NO</string>
+    <string name="cofirm_label">CONFIRM</string>
+    <string name="confirmation_label">Are you sure?</string>
+    <string name="res_label">Response</string>
+    <string name="final_response">Here is your response.</string>
+    <string name="on_switch">Switch is ON</string>
+    <string name="off_switch">Switch is OFF</string>
+    <string name="permission">Permission required.</string>
+    <string name="chatButton">Chat Button</string>
+    <string name="send">send</string>
+
+</resources>

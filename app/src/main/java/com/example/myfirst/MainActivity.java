@@ -22,6 +22,7 @@ import java.util.Locale;
 public class MainActivity extends AppCompatActivity {
     private Button button;
     private Button chatButton;
+    private Button testToolbarLauncherButton;
     protected static final String ACTIVITY_NAME = "MainActivity";
 
     @Override
@@ -49,6 +50,25 @@ public class MainActivity extends AppCompatActivity {
         });
 
         chatButton = findViewById(R.id.chatButton);
+        chatButton.setOnClickListener(new View.OnClickListener()
+        {
+            @Override
+            public void onClick(View v)
+            {
+                Log.i(ACTIVITY_NAME, "User clicked Start Chat");
+                startActivity(new Intent(MainActivity.this, ChatWindow.class));
+            }
+        });
+
+        testToolbarLauncherButton = findViewById(R.id.test_toolbar_button);
+        testToolbarLauncherButton.setOnClickListener(new View.OnClickListener()
+        {
+            @Override
+            public void onClick(View v)
+            {
+                startActivity(new Intent(MainActivity.this, TestToolbar.class));
+            }
+        });
     }
 
     public void chatActivity(View view){

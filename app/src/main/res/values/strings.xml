@@ -20,6 +20,31 @@
     <string name="off_switch">Switch is OFF</string>
     <string name="permission">Permission required.</string>
     <string name="chatButton">Chat Button</string>
-    <string name="send">send</string>
+    <string name="send">Send</string>
+    <string name="title_activity_test_toolbar">TestToolbar</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="add_item">Add Item</string>
+    <string name="go_back">Go Back</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="op_1_selected_snack">You selected item 1</string>
+    <string name="floating_button_msg">The floating button has been clicked!</string>
+    <string name="op_1_selected_toast">Option 1 selected.</string>
+    <string name="go_back_dialog_title">GO BACK CONFIRMATION!</string>
+    <string name="go_back_dialog_msg">Do you want to go back?</string>
+    <string name="go_back_dialog_no_choice">STAYING HERE!</string>
+    <string name="go_back_dialog_yes_choice">GOING BACK!</string>
+    <string name="msg_enter_hint">Enter your message!</string>
+    <string name="set_msg_dialog_title">SET MESSAGE!</string>
+    <string name="set_msg_dialog_msg">Set the message you would like the first menu button to display.</string>
+    <string name="set_msg_no_choice">CANCEL</string>
+    <string name="set_msg_yes_choice">SET</string>
+    <string name="msg_set_toast">Message has been set!</string>
+    <string name="part_four_msg">Version 1.0, by Abhinav, Kalia.</string>
 
 </resources>

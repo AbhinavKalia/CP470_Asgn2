@@ -69,6 +69,17 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(new Intent(MainActivity.this, TestToolbar.class));
             }
         });
+
+        Button btn_forecast = findViewById(R.id.weatherForecast);
+        btn_forecast.setOnClickListener(new View.OnClickListener() {
+
+            public void onClick(View v) {
+                Log.i(ACTIVITY_NAME, "User clicked Start Forecast");
+                Intent intent = new Intent(MainActivity.this,
+                        WeatherForecast.class);
+                startActivityForResult(intent, 50);
+            }
+        });
     }
 
     public void chatActivity(View view){

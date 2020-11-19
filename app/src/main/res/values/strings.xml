@@ -46,5 +46,18 @@
     <string name="set_msg_yes_choice">SET</string>
     <string name="msg_set_toast">Message has been set!</string>
     <string name="part_four_msg">Version 1.0, by Abhinav, Kalia.</string>
+    <string name="copyRight">Copyright</string>
+    <string name="max_temperature">Maximum Temperature</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="min_temperature">Minimum Temperature</string>
+    <string name="current_temperature">Current Temperature</string>
+    <string name="select_a_canadian_city">Select a Canadian City</string>
+    <string name="weatherforecast">Weather Forecast</string>
+    <string-array name="cities">
+        <item>Waterloo</item>
+        <item>Ottawa</item>
+        <item>Kitchener</item>
+        <item>Toronto</item>
+    </string-array>
 
 </resources>

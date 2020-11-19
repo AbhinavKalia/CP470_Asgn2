@@ -46,5 +46,18 @@
     <string name="set_msg_yes_choice">ਸੈੱਟ</string>
     <string name="msg_set_toast">ਸੁਨੇਹਾ ਸੈੱਟ ਕੀਤਾ ਗਿਆ ਹੈ!</string>
     <string name="part_four_msg">ਸੰਸਕਰਣ 1.0, ਅਭਿਨਵ, ਕਾਲੀਆ ਦੁਆਰਾ.</string>
+    <string name="copyRight">ਕਾਪੀਰਾਈਟ</string>
+    <string name="max_temperature">ਵੱਧ ਤੋਂ ਵੱਧ ਤਾਪਮਾਨ</string>
+    <string name="wind_speed">ਹਵਾ ਦੀ ਗਤੀ</string>
+    <string name="min_temperature">ਘੱਟੋ ਘੱਟ ਤਾਪਮਾਨ</string>
+    <string name="current_temperature">ਮੌਜੂਦਾ ਤਾਪਮਾਨ</string>
+    <string name="select_a_canadian_city">ਇੱਕ ਕੈਨੇਡੀਅਨ ਸਿਟੀ ਦੀ ਚੋਣ ਕਰੋ</string>
+    <string name="weatherforecast">ਮੋਸਮ ਪੂਰਵ ਜਾਣਕਾਰੀ</string>
+    <string-array name="cities">
+        <item>ਵਾਟਰਲੂ</item>
+        <item>ਓਟਾਵਾ</item>
+        <item>ਕਿਚਨਰ</item>
+        <item>ਟੋਰਾਂਟੋ</item>
+    </string-array>
 
 </resources>

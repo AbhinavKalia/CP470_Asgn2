@@ -46,5 +46,18 @@
     <string name="set_msg_yes_choice">सेट</string>
     <string name="msg_set_toast">संदेश सेट कर दिया गया है!</string>
     <string name="part_four_msg">संस्करण 1.0, अभिनव, कालिया द्वारा।</string>
+    <string name="copyRight">कॉपीराइट</string>
+    <string name="max_temperature">अधिकतम तापमान</string>
+    <string name="wind_speed">हवा की गति</string>
+    <string name="min_temperature">न्यूनतम तापमान</string>
+    <string name="current_temperature">वर्तमान तापमान</string>
+    <string name="select_a_canadian_city">एक कनाडाई शहर का चयन करें</string>
+    <string name="weatherforecast">मौसम पूर्वानुमान</string>
+    <string-array name="cities">
+        <item>वाटरलू</item>
+        <item>ओटावा</item>
+        <item>किचनर</item>
+        <item>टोरंटो</item>
+    </string-array>
 
 </resources>
